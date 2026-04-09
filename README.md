@@ -1,4 +1,4 @@
-📊 Ola Booking Dashboard – Power BI Project
+📊 RightSight ML : Mobility Analytics & Forecasting
 
 This project is an interactive Power BI dashboard designed to analyze Ola booking data, providing actionable insights into booking patterns, revenue, cancellations, and performance metrics.
 
@@ -30,8 +30,8 @@ Major reasons for cancellations identified.
 
 ✅ Dashboard Preview:
 ![Ola Booking Overall Dashboard](one.png)
-![Ola Booking Vehicle Type Dashboard](Vehicle type.png)
-![Ola Booking Revenue Dashboard](Revenue.png)
-![Ola Booking Cancellation Dashboard](Cancellation.png)
-![Ola Booking Rating Dashboard](Rating.png)
+![Ola Booking Vehicle Type Dashboard](two.png)
+![Ola Booking Revenue Dashboard](three.png)
+![Ola Booking Cancellation Dashboard](four.png)
+![Ola Booking Rating Dashboard](five.png)
 
