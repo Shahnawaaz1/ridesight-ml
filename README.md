@@ -1,32 +1,36 @@
 📊 RightSight ML : Mobility Analytics & Forecasting
 
-This project is an interactive Power BI dashboard designed to analyze Ola booking data, providing actionable insights into booking patterns, revenue, cancellations, and performance metrics.
+This project is an interactive dashboard and machine learning system designed to analyze ride-hailing booking data and provide actionable insights into ride patterns, cancellations, and revenue forecasting.
 
 📌 Features Included:
 
-Overall Analysis: Total Bookings & Revenue
+Overall Analysis: Total Bookings, Revenue and Key KPIs
+Booking Status Breakdown: Success vs cancellations (Driver, Customer, Not Found)
+Ride Trends Over Time: Daily and hourly demand patterns
+Vehicle Type Analysis: Performance of different ride categories (Bike, Auto, Sedan, etc.)
+Cancellation Prediction: ML-based cancel probability analysis
+Revenue Forecasting: Future revenue prediction for next 30 days
 
-Booking Status Breakdown: Success vs. cancellations (by driver, by customer, driver not found)
 
-Ride Volume Over Time: Trend visualization
+🛠 Tools & Technologies Used:
 
-Vehicle Type Analysis: Car, Bike, Mini Car, etc.
-
-Cancellation & Ratings Analysis
-
-🛠 Tools Used:
-
-Power BI – Data Visualization & Dashboard Creation
-
-MS Excel – Data Cleaning & Preprocessing
+Microsoft Power BI – Dashboard & Data Visualization
+Microsoft Excel – Data Cleaning & Preprocessing
+VS Code - Python (Pandas, NumPy, Scikit-learn) – Machine Learning Models
 
 📈 Insights Derived:
 
-High success rate of 62% bookings
+Identified high and low demand time periods
+Detected key factors influencing ride cancellations
+Predicted cancellation probability for better decision-making
+Forecasted future revenue trends using machine learning
+Provided data-driven insights to improve operational efficiency.
 
-Clear patterns of peak vs. low booking periods
+🚀 Project Highlights:
 
-Major reasons for cancellations identified.
+End-to-end pipeline: Data → ML Model → Dashboard
+Combines predictive analytics with business intelligence
+Scalable and adaptable for different ride-hailing platforms
 
 ✅ Dashboard Preview:
 ![Overall Dashboard](one.png)
