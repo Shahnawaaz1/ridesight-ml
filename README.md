@@ -1,4 +1,4 @@
-📊 RightSight ML : Mobility Analytics & Forecasting
+📊 RidetSight ML : Mobility Analytics & Forecasting 
 
 This project is an interactive dashboard and machine learning system designed to analyze ride-hailing booking data and provide actionable insights into ride patterns, cancellations, and revenue forecasting.
 
